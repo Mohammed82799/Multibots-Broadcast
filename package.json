@@ -1,0 +1,25 @@
+{
+  "name": "multibots-broadcast",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@keyv/sqlite": "^3.6.4",
+    "chalk": "^2.4.2",
+    "discord.js": "^14.8.0",
+    "dotenv": "^16.0.3",
+    "eris": "^0.17.2",
+    "fs": "^0.0.1-security",
+    "keyv": "^4.5.2",
+    "moment": "^2.29.4",
+    "mongoose": "^7.0.2",
+    "node-fetch": "^2.6.7",
+    "st.db": "^6.0.1"
+  }
+}
